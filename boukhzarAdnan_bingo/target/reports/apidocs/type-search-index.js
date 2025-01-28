@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"boukhzarAdnan_bingo","l":"BoukhzarAdnan_bingo_un_carton"},{"p":"boukhzarAdnan_bingo","l":"BoukhzarAdnan_bingo_varios_cartones"},{"p":"boukhzarAdnan_bingo","l":"Carton"},{"p":"boukhzarAdnan_bingo","l":"utilitats"}];updateSearchResults();

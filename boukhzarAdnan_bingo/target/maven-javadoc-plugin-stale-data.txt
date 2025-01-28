@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'boukhzarAdnan_bingo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'boukhzarAdnan_bingo 1.0-SNAPSHOT API'
+boukhzarAdnan_bingo
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/src/main/java = 1737040818748
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/search-page.js = 1737568337551
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/copy.svg = 1737568337545
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/module-search-index.js = 1737568337491
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/allpackages-index.html = 1737568337490
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/search.js = 1737568337549
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/link.svg = 1737568337546
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/allclasses-index.html = 1737568337486
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/index.html = 1737568337533
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/package-search-index.js = 1737568337492
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/index-all.html = 1737568337527
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/tag-search-index.js = 1737568337494
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/type-search-index.js = 1737568337492
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/member-search-index.js = 1737568337493
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/stylesheet.css = 1737568337543
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/search.html = 1737568337531
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/overview-tree.html = 1737568337458
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/script.js = 1737568337544
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/help-doc.html = 1737568337540
+/home/adnan/Desktop/M3-PROGR/TEMA_2_DISSENY_MODULAR/PROJECTE/boukhzarAdnan_bingo/target/reports/apidocs/element-list = 1737568337402
